@@ -12,5 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getSupportActionBar().setTitle("Github");
+
+
+        int a;
+        int b;
+        int c;
     }
 }
